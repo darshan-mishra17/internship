@@ -1,0 +1,11 @@
+colours=['red','blue','green','yellow','']
+print(colours)
+print(type(colours))
+colours[1]="orange"
+print(colours)
+colours[4]='red'
+print(len(colours))
+mix=[1,2.3,True,'string']
+print(type(mix))
+print(colours[:2])
+print(colours[-1])

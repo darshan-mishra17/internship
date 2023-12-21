@@ -1,0 +1,9 @@
+l1=[1,2,3,4]
+x=l1.count(4)
+print(x)
+y=l1.index(4)
+print(y)
+l1.pop(2)
+print(l1)
+l1.remove(2)
+print(l1)

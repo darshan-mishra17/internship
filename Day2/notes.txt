@@ -1,0 +1,18 @@
+->isinstance(variable,datatype to be checked)
+is a builtin function which returns true and false 
+checks the datatype 
+->Parametrs values in func declaration
+  arguements values in func calling
+->in Bitwise operators the numbers are converted into their binary equivalent then 
+evaluted using logic gates
+->XOR operator
+	1  0 =1
+	0  1 =1
+	0  0 =0
+	1  1 =0
+->DBMS
+->OS
+drf
+github
+resume.io
+versel

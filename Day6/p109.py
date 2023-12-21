@@ -1,0 +1,5 @@
+seasons=("spring","summer","rainy","winter")
+y=list(seasons)
+y.sort()
+seasons=tuple(y)
+print(seasons)
